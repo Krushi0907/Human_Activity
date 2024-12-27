@@ -1,0 +1,17 @@
+train: C:\Users\pph34\OneDrive\Desktop\ODmodel\train
+val: C:\Users\pph34\OneDrive\Desktop\ODmodel\val
+
+nc: 9
+
+names:
+  [
+    "Reading",
+    "Cup",
+    "Person",
+    "Book",
+    "Driving",
+    "Car",
+    "Riding",
+    "Horse",
+    "Bike",
+  ]
